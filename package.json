@@ -1,0 +1,39 @@
+{
+  "name": "react-native-fancy-calendars",
+  "version": "1.0.0",
+  "description": "Fancy Calendars with Options for your React Native Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Intrellaris/react-native-fancy-calendars.git"
+  },
+  "keywords": [
+    "\"react-native\"",
+    "\"react-component\"",
+    "\"react-native-component\"",
+    "\"react\"",
+    "\"react",
+    "native\"",
+    "\"mobile\"",
+    "\"ios\"",
+    "\"android\"",
+    "\"ui\"",
+    "\"calendars\"",
+    "\"calendar\"",
+    "\"date-picker\"",
+    "\"agendas\"",
+    "\"agenda\""
+  ],
+  "author": "Arthur Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Intrellaris/react-native-fancy-calendars/issues"
+  },
+  "homepage": "https://github.com/Intrellaris/react-native-fancy-calendars#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.66.2"
+  }
+}
